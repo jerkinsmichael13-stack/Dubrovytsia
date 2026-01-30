@@ -1,0 +1,20 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Резервні копії редакторів
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Тимчасові файли
+*.tmp
+*.bak
+*.orig
+
+# Великі оригінальні файли (зберігайте окремо)
+original-photos/
+backup/
